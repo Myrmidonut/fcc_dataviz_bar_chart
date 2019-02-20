@@ -9,6 +9,8 @@ This bar chart is made with [D3](https://d3js.org/).
 
 This project is part of freeCodeCamps Data Visualization certificate.
 
+***
+
 ## Project Requirements
 * The chart should have a title with a corresponding id="title".
 * The chart should have a g element x-axis with a corresponding id="x-axis".
@@ -24,12 +26,18 @@ This project is part of freeCodeCamps Data Visualization certificate.
 * Moving the mouse over an area shows a tooltip with a corresponding id="tooltip" which displays more information about the area.
 * The tooltip should have a data-date property that corresponds to the data-date of the active area.
 
+***
+
 ## Project Data
 US GDP:  
 https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json
 
+***
+
 ## Final Project
 https://myrmidonut.github.io/fcc_dataviz_bar_chart
+
+***
 
 ## Preview Images
 ### Main Screen:
